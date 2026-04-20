@@ -1,4 +1,4 @@
-# Microsoft Azure Sentinel Integration (Bi-Directional)
+# Microsoft Azure Sentinel Incident/Alert Integration 
 
 SOCRadar integrates with Microsoft Azure Sentinel to synchronize incidents and support coordinated investigation across both platforms.
 
